@@ -31,3 +31,7 @@ At the time of writing there is no patch for Spring Core available yet.
 ## Disclaimer
   
 I am not the developer of the exploit, the exploit is available on various github repositories already way before i published this project. I merely modified its content to make it work against this dockerized test-setup. This repository is meant for security researchers and developers to get a better understanding about the vulnerability and to test remediations.
+
+Spring published that they released new version of their Spring Framework (versions 5.3.18 and 5.2.20) that would fix this vulnerability, also refer to: 
+https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement
+
