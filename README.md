@@ -1,6 +1,6 @@
 # spring-rce-poc
 
-Quick test setup to replicate the spring-rce (\<insert CVE here\>):\
+Quick test setup to replicate the spring-rce (CVE-2022-22965):\
 Deploy a docker container with Tomcat, SpringMVC and a pre-compiled vulnerable app (available at https://github.com/fengguangbin/spring-rce-war). \
 Then run the exploit (grabbed from https://github.com/tweedge/springcore-0day-en).
 
